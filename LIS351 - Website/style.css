@@ -1,0 +1,61 @@
+body {
+    background-color: #E6C2FF;
+    font-family: Georgia, serif;
+    margin: 0;
+}
+
+nav {
+    background-color: #9D00EA;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #FFA9E9;
+}
+
+main {
+    margin: 40px;
+}
+
+h1 {
+    color: #9D00EA;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    color: #9D00EA;
+    font-size: 24px;
+}
+
+h3 {
+    color: #9D00EA;
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+}
+
+img {
+    max-width: 400px;
+    height: auto;
+}
+
+.skillLevels {
+    display: flex;
+    gap: 20px;
+}
+
+.skillLevels {
+    flex: 1;
+    padding: 20px;
+    background-color: #FFA9E9;
+}
